@@ -2,6 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7278215e-cbbb-4f43-84d3-650b044b3338" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/.cache/29/cb8ca34cf8888d4291a6a4ddbff2da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/2b/dc1e3ce3423498ad6656a44935a74d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/49/de2e5c3ca91847371b46a96dded788.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/74/fb95176b600c26f17fd42ac29a029a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/7d/fd2b9480eae7e28b3fbb1bc56a548a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/84/6806241f3184a0e6c382913f1149a1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b2/e1a92ef4ae5872468de134e8852758.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f1/75631e6954f79f68efed80e45b1e87.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f8/52df414f0e47e6a4f2e83fb05063cc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/app.a6a4d504.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/app.a6a4d504.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/app.a6a4d504.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -43,7 +59,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="42" />
+          <entry key="gitignore" value="43" />
           <entry key="html" value="696" />
           <entry key="js" value="234" />
           <entry key="json" value="2" />
@@ -57,7 +73,7 @@
           <entry key="HTML" value="699" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="231" />
-          <entry key="PLAIN_TEXT" value="181" />
+          <entry key="PLAIN_TEXT" value="182" />
           <entry key="Vue.js" value="76" />
         </counts>
       </usages-collector>
@@ -83,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
@@ -113,7 +129,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
@@ -166,7 +182,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="638" />
+    <option name="x" value="477" />
     <option name="width" value="1268" />
     <option name="height" value="1040" />
   </component>
@@ -265,7 +281,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541582699354</updated>
-      <workItem from="1541582700455" duration="13465000" />
+      <workItem from="1541582700455" duration="14446000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1541583296031</created>
@@ -316,14 +332,21 @@
       <option name="project" value="LOCAL" />
       <updated>1541597347324</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="加入parcel  将button组建  html css  js 一页显示5">
+      <created>1541597726475</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1541597726475</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13465000" />
+    <option name="totallyTimeSpent" value="14446000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="511" y="0" width="1014" height="832" extended-state="0" />
+    <frame x="382" y="0" width="1014" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
@@ -350,6 +373,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -368,15 +394,29 @@
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/button.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="373">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/button.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/button.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -388,31 +428,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/button.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
