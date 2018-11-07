@@ -48,7 +48,7 @@
           <entry key="js" value="234" />
           <entry key="json" value="2" />
           <entry key="md" value="64" />
-          <entry key="txt" value="74" />
+          <entry key="txt" value="75" />
           <entry key="vue" value="76" />
         </counts>
       </usages-collector>
@@ -57,7 +57,7 @@
           <entry key="HTML" value="699" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="231" />
-          <entry key="PLAIN_TEXT" value="180" />
+          <entry key="PLAIN_TEXT" value="181" />
           <entry key="Vue.js" value="76" />
         </counts>
       </usages-collector>
@@ -265,7 +265,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541582699354</updated>
-      <workItem from="1541582700455" duration="13148000" />
+      <workItem from="1541582700455" duration="13465000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1541583296031</created>
@@ -309,11 +309,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541597213976</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="加入parcel  将button组建  html css  js 一页显示5">
+      <created>1541597347324</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541597347324</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13148000" />
+    <option name="totallyTimeSpent" value="13465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="511" y="0" width="1014" height="832" extended-state="0" />
@@ -351,7 +358,8 @@
     <MESSAGE value="完成按钮基本样式" />
     <MESSAGE value="安装parcel" />
     <MESSAGE value="加入parcel  将button组建  html css  js 一页显示" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入parcel  将button组建  html css  js 一页显示" />
+    <MESSAGE value="加入parcel  将button组建  html css  js 一页显示5" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入parcel  将button组建  html css  js 一页显示5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package-lock.json">
