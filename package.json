@@ -1,0 +1,23 @@
+{
+  "name": "vuezaolunzi",
+  "version": "1.0.0",
+  "description": "这是UI框架VUE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanglicheng66/vuezaolunzi.git"
+  },
+  "keywords": [
+    "VUE",
+    "ui"
+  ],
+  "author": "zhanglicheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhanglicheng66/vuezaolunzi/issues"
+  },
+  "homepage": "https://github.com/zhanglicheng66/vuezaolunzi#readme"
+}
