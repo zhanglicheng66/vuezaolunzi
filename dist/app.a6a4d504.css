@@ -1,3 +1,11 @@
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
 .g-button {
   font-size: var(--font-size);
   height: var(--button-height);
@@ -34,6 +42,9 @@
   order: 2;
   margin-right: 0;
   margin-left: 0.3em;
+}
+.g-button .jiazai {
+  animation: spin 1s infinite linear;
 }.g-icon {
   width: 1em;
   height: 1em;
