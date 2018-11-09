@@ -1,12 +1,13 @@
 <template xmlns="">
 
-    <button class="g-button" :class="{[`icon-${iconPosition}`]:true}">
+    <button class="g-button" :class="{[`icon-${iconPosition}`]:true}"
+    @click="$emit('click')">
 
         <!--<svg v-if="icon" class="icon">-->
             <!--<use :xlink:href=`#icon-${icon}`></use>-->
         <!--</svg>-->
-        <g-icon class="icon" v-if="icon" :name="icon"></g-icon>
-        <g-icon class="jiazai" name="jiazai"></g-icon>
+        <g-icon class="icon" v-if="icon && !jiazai" :name="icon"></g-icon>
+        <g-icon class="jiazai icon" v-if="jiazai" name="jiazai"></g-icon>
         <div class="content">
             <slot></slot>
         </div>
@@ -21,6 +22,10 @@
 
         props:{
             icon:{},
+            jiazai:{
+                type:Boolean,
+                default:false
+            },
             iconPosition: {
                 type: String,
                 default: 'left',

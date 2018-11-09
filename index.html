@@ -31,15 +31,15 @@
 </head>
 <body>
 <div id="app">
-    <g-button>
+    <g-button :jiazai="jiazai1" @click="jiazai1 = !jiazai1">
 
         按钮
     </g-button>
-    <g-button icon="zuo">
+    <g-button icon="zuo" :jiazai="jiazai2" @click="jiazai2 = !jiazai2">
 
         按钮
     </g-button>
-    <g-button icon="zuo" icon-position="right">
+    <g-button icon="zuo" icon-position="right" :jiazai="jiazai3" @click="jiazai3 = !jiazai3">
 
         按钮
     </g-button>

@@ -5,5 +5,10 @@ Vue.component('g-button',Button)
 Vue.component('g-icon',Icon)
 new Vue({
     el:'#app',
+    data:{
+        jiazai1:false,
+        jiazai2:true,
+        jiazai3:false
+    }
 
 })
